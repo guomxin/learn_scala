@@ -18,9 +18,10 @@ project/plugins/project/
 .worksheet
 
 # eclipse specific
-.classpath
-.project
+#.classpath
+#.project
 .settings/
 .cache-main
 .cache-tests
+.metadata/
 bin/
