@@ -6,5 +6,5 @@ class TaskManagerSpec extends FlatSpec with Matchers {
       val tasksDueToday = TaskManager.allTasksDueToday(List())
       tasksDueToday should have length 0
   }
-
+  
 }
